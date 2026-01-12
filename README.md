@@ -1,4 +1,4 @@
-# E-commerce-end-to-end-analysis
+# E-commerce-End-to-End-Analysis
 
 ## Project Description
 
